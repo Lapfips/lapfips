@@ -49,6 +49,34 @@
 ![PacketTracer](https://img.shields.io/badge/PacketTracer-007ACC?style=flat&logo=cisco&logoColor=white)
 ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=flat&logo=wireguard&logoColor=white)
 
+## VM Tools
+
+![VMware Workstation](https://img.shields.io/badge/VMware%20Workstation-%23000000.svg?style=flat&logo=vmware&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-%2368A4E1.svg?style=flat&logo=virtualbox&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%23096B8E.svg?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi)
+![Vim](https://img.shields.io/badge/Vim-%23019733.svg?style=flat&logo=vim&logoColor=white)
+
+## Operating Systems Managed
+
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows&logoColor=white)
+![Windows Server 2022](https://img.shields.io/badge/Windows_Server_2022-0078D4?style=flat&logo=windows&logoColor=white)
+
+## Network Configurations
+
+| Service        | Description                               |
+| -------------- | ----------------------------------------- |
+| **DHCP**       | Dynamic IP address management.            |
+| **DNS**        | Domain name server management.            |
+| **FTP**        | File transfer protocol server management. |
+| **SSH**        | Secure remote connections management.     |
+| **HTTP/HTTPS** | Web server management.                    |
+| **VPN**        | Virtual private network management.       |
+
 ## Other Tools
 
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=flat&logo=visualstudiocode&logoColor=white)
@@ -61,14 +89,6 @@
 ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=flat&logo=riotgames&logoColor=white)
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat&logo=unrealengine&logoColor=white)
-
-## VM Tools
-
-![VMware Workstation](https://img.shields.io/badge/VMware%20Workstation-%23000000.svg?style=flat&logo=vmware&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-%2368A4E1.svg?style=flat&logo=virtualbox&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%23096B8E.svg?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi)
 
 # 📊 GitHub Stats
 
